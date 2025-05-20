@@ -9,7 +9,7 @@ public class CountCharOccurenceHashMap {
     public static void main(String args[]){
 
 
-        String str="AutomationAutomation";//{a=2, t=2, u=1, i=1, m=1, n=1, o=2}
+        String str="Automation";//{a=2, t=2, u=1, i=1, m=1, n=1, o=2}
 
         char[] chrArr=str.toLowerCase().toCharArray();
 
